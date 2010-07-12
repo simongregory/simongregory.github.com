@@ -65,3 +65,7 @@ li a:hover {
 	font-size: 9px;
 	bottom: 1px;
 }
+
+img#forkme { 
+    position: absolute; top: 0; right: 0; border: 0;
+}
